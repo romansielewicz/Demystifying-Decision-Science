@@ -1,8 +1,8 @@
-Course Outline: Demystifying Decision Science
-Chapter 1 – Fundamentals of Decision Science
-1.1 – What is Decision Science?
-•	The learner will be able to define Decision Science 
-•	The learner will be able to identify the use cases of Decision Science and compare it with the Disciplines of Data Science and Data Analysis. 
+Course Outline: Demystifying Decision Science  
+Chapter 1 – Fundamentals of Decision Science 
+1.1 – What is Decision Science?  
+•	The learner will be able to define Decision Science  
+•	The learner will be able to identify the use cases of Decision Science and compare it with the Disciplines of Data Science and Data Analysis.   
 1.2 – Randomness and probability
 •	The learner will be able to describe randomness.
 •	The learner will be able to explain what a probability distribution is.
