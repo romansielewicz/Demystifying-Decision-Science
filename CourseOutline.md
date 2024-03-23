@@ -12,7 +12,7 @@
 •	The learner will be able to explain the difference between correlation and causation.  
 •	The learner will be able to construct null and alternative hypotheses.  
 •	The learner will be able to explain statistical significance.  
-Chapter 2 – Statistical Tests   
+## Chapter 2 – Statistical Tests   
 2.1 – Fundamentals of AB testing  
 •	The learner will be able to describe what AB testing is.  
 •	The learner will be able to identify the use cases of AB testing.  
@@ -25,7 +25,7 @@ Chapter 2 – Statistical Tests
 •	The learner will be able to design a simple Bayesian AB Test   
 •	The learner will be able to interpret the results of a Bayesian AB test.   
 •	The learner will be able to identify common mistakes in Bayesian AB Testing.  
-Chapter 3 – Machine Learning   
+## Chapter 3 – Machine Learning   
 3.1 – Understanding Machine learning  
 •	The learner will be able to describe what machine learning is.  
 •	The learner will be able to explain the difference between a regression model and a classification model.  
@@ -37,7 +37,7 @@ Chapter 3 – Machine Learning
 3.3 – Multiple Linear Regression Models  
 •	The learner will be able to interpret the coefficients in a multiple linear regression model.   
 •	The learner will be able to describe the pitfalls of multicollinearity in linear regression.  
-Chapter 4 – Databases  
+## Chapter 4 – Databases  
 4.1 – Relational and Non-Relational databases  
 •	The Learner will be able to differentiate between relational and non-relational databases.  
 •	The learner will be able to describe the advantages and use cases of relational and non-relational databases.  
